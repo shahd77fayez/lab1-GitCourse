@@ -1,20 +1,20 @@
-<img  alt ="coding" align="center" height="200" width="900" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
-<h2> How to remove them locally and remotly</h2>
+How to remove them locally and remotly
 
-<h4> to remove branch remotly git push origin :dev</h4>
-<h4> to remove branch locally git branch -d/-D dev/test</h4>
-<h4> -d check if it is not merge -D remove it</h4>
+to remove branch remotly git push origin :dev
+to remove branch locally git branch -d/-D dev/test
+-d check if it is not merge -D remove it
 
-<h2>checkout another branch without commit changes</h2>
-<h4> Using Stach</h4>
-<h5> git stach  get changes and put them in folder .git inside staches folder</h5>
-<h5>git stach pop to return all staches</h5>
+checkout another branch without commit changes
+ 
+Using Stach
+git stach  get changes and put them in folder .git inside staches folder
+git stach pop to return all staches
 
-<h4> to list tags</h4>
-<h5> git tags</h5>
+to list tags
+git tags
 
-<h4>how to delete tag locally and remotely.</h4>
-<h5>locally:git tag -d/-D name of tag</h5>
-<h5>remotly:git push origin :name of tag</h5>
+how to delete tag locally and remotely.
+locally:git tag -d/-D name of tag
+remotly:git push origin :name of tag
 
 
