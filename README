@@ -18,3 +18,7 @@ locally:git tag -d/-D name of tag
 remotly:git push origin :name of tag
 
 
+
+![Alt text](https://example.com/path/to/image.png)
+
+
